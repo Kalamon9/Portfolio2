@@ -227,14 +227,14 @@ footer p {
 
 .orange-div {
   background-color: orange;
-  width: 320px;
-  height: 420px;
+  width: 280px;
+  height: 375px;
   position: relative;
   margin: 24px auto 60px;
 }
 
 .photo {
-  width: 80%;
+  width: 100%;
   height: auto;
   position: absolute;
   left: 20px;
